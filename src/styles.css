@@ -1,0 +1,33 @@
+.card {
+  box-shadow: 0 4px 8px 0 #e4aec5;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.topic {
+  color: #05595b;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 3px 7px #85c88a;
+}
+
+.image {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin-left: 50px;
+}
+
+.btn {
+  border: none;
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  background-color: #712b75;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
